@@ -37,8 +37,8 @@
 - [ ] Click Create function.
 - [ ] Navigate to IAM.
 - [ ] Search for and select your newly created role.
-- [ ] Edit the policy to replace its existing policy with this [file on GitHub](https://github.com/ntrao/lambda/blob/main/execution%20role.json).
-- [ ] Back in the Lambda console, scroll to the Function code section and paste in the Python source code from this [file on GitHub](https://github.com/ntrao/lambda/blob/main/lambda_function_ec2_creation.py).
+- [ ] Edit the policy to replace its existing policy with this [file on GitHub](https://github.com/ntrao/traning/blob/main/execution%20role.json).
+- [ ] Back in the Lambda console, scroll to the Function code section and paste in the Python source code from this [file on GitHub](https://github.com/ntrao/traning/blob/main/lambda_function_ec2_creation.py).
 - [ ] Set four environment variables:
       - AMI: The ami- value of an Amazon Linux 2 instance
       - INSTANCE_TYPE: t2.micro
