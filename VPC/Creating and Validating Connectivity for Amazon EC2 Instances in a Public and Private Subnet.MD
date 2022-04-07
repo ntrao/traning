@@ -36,3 +36,4 @@ Create a private NACL named Private_NACLwith an inbound rule allowing SSH traffi
 
 Associate the private NACL with the private subnet.
 
+https://acloudguru.com/hands-on-labs/create-a-basic-vpc-and-associated-components-in-aws
